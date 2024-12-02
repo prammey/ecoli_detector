@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Bacteria']
+
+roboflow:
+  workspace: conrad-iw2yc
+  project: ecoli-detection-jttem
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/conrad-iw2yc/ecoli-detection-jttem/dataset/1
