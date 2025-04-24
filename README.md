@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <p> 
     <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
       <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png"></a>
